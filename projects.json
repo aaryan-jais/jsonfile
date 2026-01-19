@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Portfolio Website",
+    "description": "My personal portfolio built using React & Tailwind CSS.",
+    "url": "https://github.com/aaryan-jais/portfolio",
+    "tech": ["React", "Tailwind CSS", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "name": "Todo App (MERN)",
+    "description": "Full-stack todo app deployed on Render.",
+    "url": "https://github.com/aaryan-jais/todo-mern",
+    "tech": ["MongoDB", "Node JS", "Express JS", "React"]
+  }
+]
