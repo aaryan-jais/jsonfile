@@ -1,26 +1,25 @@
-"projects":[
-  {
-    "id": 1,
-    "name": "Portfolio Website",
-    "description": "My personal portfolio built using React & Tailwind CSS.",
-    "url": "https://github.com/aaryan-jais/portfolio",
-    "languages": ["React", "Tailwind CSS", "JavaScript"]
-  },
-  {
-    "id": 2,
-    "name": "Todo App (MERN)",
-    "description": "Full-stack todo app deployed on Render.",
-    "url": "https://github.com/aaryan-jais/todo-mern",
-    "languages": ["MongoDB", "Node JS", "Express JS", "React"]
-  },
-  {
-    "name": "E-Commerce Store",
-    "description": "Fully functional eCommerce website with mongoose, JWT, and authentication.",
-    "url": "https://github.com/aaryan-jais/ecommerce",
-    "languages": ["React", "Redux", "Node", "Express", "MongoDB"]
-  }
-
-]
-
-
-
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Portfolio Website",
+      "description": "My personal portfolio built using React & Tailwind CSS.",
+      "url": "https://github.com/aaryan-jais/portfolio",
+      "languages": ["React", "Tailwind CSS", "JavaScript"]
+    },
+    {
+      "id": 2,
+      "name": "Todo App (MERN)",
+      "description": "Full-stack todo app deployed on Render.",
+      "url": "https://github.com/aaryan-jais/todo-mern",
+      "languages": ["MongoDB", "Node JS", "Express JS", "React"]
+    },
+    {
+      "id": 3,
+      "name": "E-Commerce Store",
+      "description": "Fully functional eCommerce website with mongoose, JWT, and authentication.",
+      "url": "https://github.com/aaryan-jais/ecommerce",
+      "languages": ["React", "Redux", "Node", "Express", "MongoDB"]
+    }
+  ]
+}
