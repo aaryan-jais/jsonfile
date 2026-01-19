@@ -11,7 +11,7 @@
     "name": "Todo App (MERN)",
     "description": "Full-stack todo app deployed on Render.",
     "url": "https://github.com/aaryan-jais/todo-mern",
-    "language": ["MongoDB", "Node JS", "Express JS", "React"]
+    "languages": ["MongoDB", "Node JS", "Express JS", "React"]
   },
   {
     "name": "E-Commerce Store",
@@ -21,3 +21,4 @@
   },
 
 ]
+
