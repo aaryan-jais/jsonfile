@@ -15,13 +15,13 @@
       "languages": ["MongoDB", "Node JS", "Express JS", "React"]
     },
     {
-    "id":3,
-    "name": "E-Commerce Store",
-    "description": "Fully functional eCommerce website with mongoose, JWT, and authentication.",
-    "url": "https://github.com/aaryan-jais/ecommerce",
-    "languages": ["React", "Redux", "Node", "Express", "MongoDB"]
-  }
-
+      "id": 3,
+      "name": "E-Commerce Store",
+      "description": "Fully functional eCommerce website with mongoose, JWT, and authentication.",
+      "url": "https://github.com/aaryan-jais/ecommerce",
+      "languages": ["React", "Redux", "Node", "Express", "MongoDB"]
+    }
   ]
 }
+
 
