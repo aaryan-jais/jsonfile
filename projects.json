@@ -1,4 +1,4 @@
-[
+"projects":[
   {
     "id": 1,
     "name": "Portfolio Website",
@@ -18,8 +18,9 @@
     "description": "Fully functional eCommerce website with mongoose, JWT, and authentication.",
     "url": "https://github.com/aaryan-jais/ecommerce",
     "languages": ["React", "Redux", "Node", "Express", "MongoDB"]
-  },
+  }
 
 ]
+
 
 
