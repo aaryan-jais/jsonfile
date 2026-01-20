@@ -11,7 +11,7 @@
       "id": 2,
       "name": "Todo App (MERN)",
       "description": "Full-stack todo app deployed on Render.",
-      "url": "https://github.com/aaryan-jais/todo-mern",
+      "url": "https://todos-app-2zfn.onrender.com/",
       "languages": ["MongoDB", "Node JS", "Express JS", "React"]
     },
     {
@@ -23,6 +23,7 @@
     }
   ]
 }
+
 
 
 
