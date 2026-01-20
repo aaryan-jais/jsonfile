@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Portfolio Website",
       "description": "My personal portfolio built using React & Tailwind CSS.",
-      "url": "https://github.com/aaryan-jais/portfolio",
+      "url": "https://portfolio-react-js-jnje.onrender.com/",
       "languages": ["React", "Tailwind CSS", "JavaScript"]
     },
     {
@@ -18,10 +18,11 @@
       "id": 3,
       "name": "E-Commerce Store",
       "description": "Fully functional eCommerce website with mongoose, JWT, and authentication.",
-      "url": "https://github.com/aaryan-jais/ecommerce",
+      "url": "https://ecommerce-store-otyv.onrender.com/",
       "languages": ["React", "Redux", "Node", "Express", "MongoDB"]
     }
   ]
 }
+
 
 
